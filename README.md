@@ -34,9 +34,9 @@
 # The best AI in the world should be available to everyone
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/images/pai-overview.png">
-  <source media="(prefers-color-scheme: light)" srcset="docs/images/pai-overview.png">
-  <img alt="PAI Architecture Overview" src="docs/images/pai-overview.png" width="800">
+  <source media="(prefers-color-scheme: dark)" srcset="Docs/images/pai-overview.png">
+  <source media="(prefers-color-scheme: light)" srcset="Docs/images/pai-overview.png">
+  <img alt="PAI Architecture Overview" src="Docs/images/pai-overview.png" width="800">
 </picture>
 
 </div>
